@@ -1,7 +1,7 @@
 # small-subdomain-enum
 A small bash script for subdomain enumeration 
 
-## Dependcies
+## Dependencies
 go install - will reccomned using the pimpmykaliscript.sh to easy install go
 ```
 https://github.com/Dewalt-arch/pimpmykali
