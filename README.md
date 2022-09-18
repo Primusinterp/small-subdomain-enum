@@ -17,3 +17,12 @@ go install github.com/tomnomnom/httprobe@latest
 ```
 
 Amass is commented out(due to amount of time it takes)but can be added in if needed :))
+
+## Usage
+```
+chmod +x subdomain_enum.sh
+```
+run the script - URL = --> site.com
+```
+./subdomain_enum.sh <URL> 
+```
